@@ -17,6 +17,5 @@
   </dependencies>
   <build>
     <finalName>automation</finalName>
-    
   </build>
 </project>
